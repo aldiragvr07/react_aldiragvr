@@ -5,7 +5,7 @@ export default function RiwayatPendidikan(){
         <RowRiwayat jenjang="SD" sekolah="SDN 04 CICALENGKA" tahun="2011-2016"/>
         <RowRiwayat jenjang="SMP" sekolah="SMP FK BINA MUDA CICALENGKA" tahun="2016-2019"/>
         <RowRiwayat jenjang="SMK" sekolah="SMK BAKTI NUSANTARA 666" tahun="2019-2022"/>
-        <RowRiwayat jenjang="SMK" sekolah="MA`SOEM UNIVERSITY" tahun="2022-Sekarang"/>
+        <RowRiwayat jenjang="Kuliah" sekolah="MA`SOEM UNIVERSITY" tahun="2022-Sekarang"/>
       </div>
     );
 }
